@@ -1,1 +1,0 @@
-This program was used to collect info from user (their course code, credit hours and grades associated with each course code). Then made use of the insert functions to collect and sort them, The displayList function was used to display the info at given intervals, intervals being controlled by the use of the deleteNode function
